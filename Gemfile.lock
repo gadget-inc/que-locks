@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/chanks/que
-  revision: 5ddddd5ebac6153d7a683ef08c86bced8e03fb51
+  revision: eeb622e38f0514fdef0d63dfdbbaeabf64305a8b
   specs:
-    que (1.0.0.beta3)
+    que (1.0.0.beta4)
 
 PATH
   remote: .
@@ -69,7 +69,7 @@ DEPENDENCIES
   database_cleaner
   minitest
   pg
-  que (= 1.0.0.beta3)!
+  que (= 1.0.0.beta4)!
   que-locks!
   rake (~> 10.0)
   rubocop
